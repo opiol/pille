@@ -25,6 +25,23 @@
     )
   )
 
+  (sheet (at 112.141 80.137) (size 29.718 28.194) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a7bacc4d-590f-4ad0-ba48-749155b6045b)
+    (property "Sheetname" "MCU" (at 112.141 79.4254 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "mcu.kicad_sch" (at 112.141 108.9156 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "pille"
+        (path "/d0b7719a-58de-4781-915d-11143b3f1d8a" (page "3"))
+      )
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
   )
